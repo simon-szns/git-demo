@@ -1,4 +1,14 @@
 # git-demo
+say hellos
+
+# This hello is from sea@ubuntu
+Hello
+
+# This hello is from sea@ubuntu
+Hello
+
+# This hello is from sea@ubuntu
+Hello
 
 # This hello is from sea@ubuntu
 Hello
